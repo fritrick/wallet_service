@@ -12,7 +12,7 @@ make dbrun
 make run
 ```
 
-## дропнуть базу
+## дропнуть докер с БД
 
 ```
 make stopdb
