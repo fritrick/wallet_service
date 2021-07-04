@@ -61,3 +61,8 @@ date_from: int64 (required)
 date_to: int64 (required)
 type: int (0: получить все, 1: получить пополнения, 2: получить выводы)
 ```
+
+## TODO
+- [] регистрация / авторизация
+- [] unit-тесты
+- [] абстрагировать компонент wallet от базы данных (dependency injection?)
